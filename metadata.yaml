@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/333
     wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21728#The-Dog-Crusoe-and-his-Master
 gutenberg_bookshelf:
 - Animals-Domestic
 - Children's Fiction
